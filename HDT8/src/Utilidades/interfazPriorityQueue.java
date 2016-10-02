@@ -5,7 +5,7 @@ Nombres: Marlon Fuentes- Mario Hernandez
 Carnets: 15240- 
 */
 
-public interface interfazPriorityQueue<E extends Comparable<E>>
+public interface PriorityQueue<E extends Comparable<E>>
 {
 	public E getFirst();
 	// pre: !isEmpty()
