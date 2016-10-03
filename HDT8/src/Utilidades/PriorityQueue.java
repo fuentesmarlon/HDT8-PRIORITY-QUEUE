@@ -1,10 +1,9 @@
 package Utilidades;
-
 /*
 Universidad del Valle de Guatemala 
 Algoritmos y Estructura de datos
 Nombres: Marlon Fuentes- Mario Hernandez
-Carnets: 15240- 
+Carnets: 15240- 15135
 */
 
 public interface PriorityQueue<E extends Comparable<E>>
