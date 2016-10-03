@@ -1,6 +1,11 @@
 package Utilidades;
 import java.util.Vector;
-
+/*
+Universidad del Valle de Guatemala 
+Algoritmos y Estructura de datos
+Nombres: Marlon Fuentes- Mario Hernandez
+Carnets: 15240- 15135
+*/
 public class VectorHeap<E extends Comparable<E>> implements PriorityQueue<E>
 {
 
